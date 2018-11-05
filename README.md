@@ -121,4 +121,5 @@ Some people who worked on this project :
 <div class="footer">
     <span class="footerTitle"><span class="uc">a</span>ntonio <span class="uc">g</span>oncalves</span>
 </div>
-##Ce fichier a été mofifier par  par Adrien Niokhor sene de le cadre d'un projet d'étude universitaire		 
+##Ce fichier a été mofifier par  par Adrien Niokhor sene de le cadre d'un projet d'étude universitaire
+## Petit test des déclencheur configurer au niveau de Jenkins
